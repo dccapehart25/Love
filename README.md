@@ -1,3 +1,3 @@
 # Love - What is it?
 * What is the opposite of love?
-** The oppisite is indifferce. 
+* The oppisite is indifferce. 
